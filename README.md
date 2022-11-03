@@ -1,6 +1,12 @@
 ### Hi there, I'm Luam 👋!
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamz&layout=compact&langs_count=8&theme=vue-dark&hide=less,scss,ShaderLab"/>
+
+<p align="left">
+  <a href="https://github.com/GuillaumeFalourd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=luamz&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamz&layout=compact&langs_count=8&hide=less,scss,ShaderLab"/>
+  </a>
+</p>
 
 ### Main Stacks
 <div style="display: inline_block; align: center"><br>
