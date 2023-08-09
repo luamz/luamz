@@ -1,5 +1,5 @@
 ### Hi there, I'm Luam 👋!
-I'm a Software Developer with a Computer Degree from UFF.
+I'm a Software Developer with a Computer Science Degree from UFF.
 
 
 
