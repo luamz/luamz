@@ -4,12 +4,6 @@ I'm a Software Developer with a Computer Science Degree from UFF.
 
 
 ### Languages & Tools
-<p align="left">
-  <a href="https://github.com/luamz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamz&layout=compact&langs_count=8&hide=less,css,html,scss,ShaderLab"/>
-  </a>
-</p>
-
 <div>
 <div style="display: inline_block; align: center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,3 +32,11 @@ I'm a Software Developer with a Computer Science Degree from UFF.
   <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
 </div>
 </div>
+
+# 
+
+<p align="left">
+  <a href="https://github.com/luamz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=luamz&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamz&layout=compact&langs_count=8&hide=less,css,html,scss,ShaderLab"/>
+  </a>
